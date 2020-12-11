@@ -1,0 +1,13 @@
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\bin\Debug\netcoreapp3.1\ÁreadeunRombo.exe
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\bin\Debug\netcoreapp3.1\ÁreadeunRombo.deps.json
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\bin\Debug\netcoreapp3.1\ÁreadeunRombo.runtimeconfig.json
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\bin\Debug\netcoreapp3.1\ÁreadeunRombo.runtimeconfig.dev.json
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\bin\Debug\netcoreapp3.1\ÁreadeunRombo.dll
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\bin\Debug\netcoreapp3.1\ÁreadeunRombo.pdb
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\obj\Debug\netcoreapp3.1\ÁreadeunRombo.csprojAssemblyReference.cache
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\obj\Debug\netcoreapp3.1\ÁreadeunRombo.AssemblyInfoInputs.cache
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\obj\Debug\netcoreapp3.1\ÁreadeunRombo.AssemblyInfo.cs
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\obj\Debug\netcoreapp3.1\ÁreadeunRombo.csproj.CoreCompileInputs.cache
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\obj\Debug\netcoreapp3.1\ÁreadeunRombo.dll
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\obj\Debug\netcoreapp3.1\ÁreadeunRombo.pdb
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\ÁreadeunRombo\obj\Debug\netcoreapp3.1\ÁreadeunRombo.genruntimeconfig.cache

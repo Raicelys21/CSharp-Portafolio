@@ -1,0 +1,13 @@
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\bin\Debug\netcoreapp3.1\NotaPrefija.exe
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\bin\Debug\netcoreapp3.1\NotaPrefija.deps.json
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\bin\Debug\netcoreapp3.1\NotaPrefija.runtimeconfig.json
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\bin\Debug\netcoreapp3.1\NotaPrefija.runtimeconfig.dev.json
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\bin\Debug\netcoreapp3.1\NotaPrefija.dll
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\bin\Debug\netcoreapp3.1\NotaPrefija.pdb
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\obj\Debug\netcoreapp3.1\NotaPrefija.csprojAssemblyReference.cache
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\obj\Debug\netcoreapp3.1\NotaPrefija.AssemblyInfoInputs.cache
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\obj\Debug\netcoreapp3.1\NotaPrefija.AssemblyInfo.cs
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\obj\Debug\netcoreapp3.1\NotaPrefija.csproj.CoreCompileInputs.cache
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\obj\Debug\netcoreapp3.1\NotaPrefija.dll
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\obj\Debug\netcoreapp3.1\NotaPrefija.pdb
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Logica computacional\NotaPrefija\obj\Debug\netcoreapp3.1\NotaPrefija.genruntimeconfig.cache
